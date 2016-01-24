@@ -1,0 +1,21 @@
+# # Required packages
+
+# Data processing
+numpy==1.10.4
+pandas==0.17.1
+pymongo==3.2.0
+scipy==0.17.0
+
+# IPython Notebook
+ipython==3.2.4
+jinja2==2.7.3
+jsonschema==2.5.1
+mistune==0.7.1
+pygments==2.1
+pyzmq==15.2.0
+terminado==0.5
+tornado==4.3
+
+# Graphing
+matplotlib==1.5.1
+seaborn==0.6.0
